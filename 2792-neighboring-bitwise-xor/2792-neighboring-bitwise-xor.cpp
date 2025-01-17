@@ -1,10 +1,13 @@
 class Solution {
 public:
     bool doesValidArrayExist(vector<int>& derived) {
-        int res=0;
-        for(int i : derived){
-            res^=i;
+        int first=0, last=0;
+        for(int i=0;i<derived.size();i++){
+            if(derived[i]==1)
+            last=~last;
+            else last=last;
         }
-        return res==0;
+
+        return first==last;
     }
 };
