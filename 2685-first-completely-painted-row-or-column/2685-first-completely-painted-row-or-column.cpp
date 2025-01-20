@@ -6,11 +6,13 @@ public:
         int size = m*n;
 
         // step1 : create a position vector for each element of the matrix
-        vector<pair<int,int>> pos(size+1);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++)
-            pos[mat[i][j]]=make_pair(i,j);
-        }      
+        unordered_map<int, pair<int, int>> pos;
+        // store matrix in this hashMap:
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                pos[mat[i][j]] = {i, j};
+            }
+        }   
 
         //find earliest row or column painted
         vector<int> rowcount(m,0);
