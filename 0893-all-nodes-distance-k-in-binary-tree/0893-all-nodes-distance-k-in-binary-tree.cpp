@@ -1,80 +1,72 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
-    void getparentbyBFS(unordered_map<TreeNode*,TreeNode*>&parent,TreeNode*root){
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            int n=q.size();
-            while(n--){
-                TreeNode*curr=q.front();
-                q.pop();
-                if(curr->left){
-                    parent[curr->left]=curr;
-                    q.push(curr->left);
-                }
-                if(curr->right){
-                      parent[curr->right]=curr;
-                    q.push(curr->right);
-                }
+    void match_parent(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parent) {
+        queue<TreeNode*> temp;
+        temp.push(root);
+
+        while (!temp.empty()) {
+            TreeNode* node = temp.front();
+            temp.pop();
+
+            if (node->left) {
+                parent[node->left] = node;
+                temp.push(node->left);
+            }
+
+            if (node->right) {
+                parent[node->right] = node;
+                temp.push(node->right);
             }
         }
     }
-   void getparentbyDFS(unordered_map<TreeNode*,TreeNode*>&parent,TreeNode*root){
-       if(root==NULL)
-       return;
-       if(root->left!=NULL){
-         parent[root->left]=root;
-       }
-       if(root->right!=NULL){
-           parent[root->right]=root;
-       }
-       getparentbyDFS(parent,root->left);
-        getparentbyDFS(parent,root->right);
-   }
+
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        unordered_map<TreeNode*,TreeNode*>parent;
-        getparentbyDFS(parent,root);
-        queue<TreeNode*>q;
-        unordered_map<TreeNode*,bool>vis;
-        vis[target]=true;
-        q.push(target);
-        int lev=0;
-        while(!q.empty()){
-            int n=q.size();
-            if(lev==k)
-                break;
-            lev++;
-            while(n--){
-                TreeNode*curr=q.front();
-                q.pop();
-                if(curr->left&&!vis[curr->left]){
-                    vis[curr->left]=true;
-                    q.push(curr->left);
+        unordered_map<TreeNode*, TreeNode*> parent;
+        match_parent(root, parent);
+
+        queue<TreeNode*> temp;
+        temp.push(target);
+        unordered_map<TreeNode*, bool> seen;
+        seen[target] = true;
+
+        int cur = 0;
+
+        while (!temp.empty()) {
+            if (cur == k) break;
+            cur++;
+
+            int size = temp.size();
+
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = temp.front();
+                temp.pop();
+
+                // Check the left child
+                if (node->left && !seen[node->left]) {
+                    seen[node->left] = true;
+                    temp.push(node->left);
                 }
-                 if(curr->right&&!vis[curr->right]){
-                    vis[curr->right]=true;
-                    q.push(curr->right);
+
+                // Check the right child
+                if (node->right && !seen[node->right]) {
+                    seen[node->right] = true;
+                    temp.push(node->right);
                 }
-                if(parent[curr]&&!vis[parent[curr]]){
-                    vis[parent[curr]]=true; 
-                    q.push(parent[curr]);
+
+                // Check the parent
+                if (parent[node] && !seen[parent[node]]) {
+                    seen[parent[node]] = true;
+                    temp.push(parent[node]);
                 }
             }
         }
-        vector<int>ans;
-        while(q.size()>0){
-            ans.push_back(q.front()->val);
-            q.pop();
+
+        vector<int> ans;
+        while (!temp.empty()) {
+            ans.push_back(temp.front()->val);
+            temp.pop();
         }
+
         return ans;
     }
 };
