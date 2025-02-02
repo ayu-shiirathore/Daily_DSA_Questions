@@ -1,31 +1,30 @@
 class Solution {
-
-private:
-    int preorderIndex;
-    unordered_map<int, int> mapping;
-
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        mapping.clear();
+        map<int, int> mp;
         for (int i = 0; i < inorder.size(); i++) {
-            mapping[inorder[i]] = i;
+            mp[inorder[i]] = i;
         }
 
-        preorderIndex = 0;
-        return build(preorder, 0, inorder.size() - 1);
+        TreeNode* root = build(preorder, 0, preorder.size() - 1, inorder, 0, inorder.size() - 1, mp);
+        return root;
     }
 
-private:
-    TreeNode* build(vector<int>& preorder, int start, int end) {
-        if (start > end) return nullptr;
+    TreeNode* build(vector<int>& preorder, int preStart, int preEnd, 
+                    vector<int>& inorder, int inStart, int inEnd, 
+                    map<int, int>& mp) {  // Pass `mp` and `inorder` by reference
+        if (preStart > preEnd || inStart > inEnd) {
+            return NULL;
+        }
 
-        int rootVal = preorder[preorderIndex++];
-        TreeNode* root = new TreeNode(rootVal);
-        int mid = mapping[rootVal];
+        TreeNode* root = new TreeNode(preorder[preStart]);
+        int inRoot = mp[root->val];
+        int numLeft = inRoot - inStart;
 
-        root->left = build(preorder, start, mid - 1);
-        root->right = build(preorder, mid + 1, end);
+        // Recursively build the left and right subtrees
+        root->left = build(preorder, preStart + 1, preStart + numLeft, inorder, inStart, inRoot - 1, mp);
+        root->right = build(preorder, preStart + numLeft + 1, preEnd, inorder, inRoot + 1, inEnd, mp);
 
         return root;
-    }    
+    }
 };
