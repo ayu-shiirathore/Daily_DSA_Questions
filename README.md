@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1927-maximum-ascending-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 <!---LeetCode Topics End-->
