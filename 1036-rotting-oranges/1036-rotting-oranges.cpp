@@ -7,7 +7,7 @@ public:
         queue<pair<pair<int, int>, int>> q;
 
         // Initialize the visited array with the same size as grid
-        vector<vector<int>> vis(n, vector<int>(m, 0));
+        int vis[n][m];
 
         // Populate the queue with all the rotten oranges and mark them as visited
         for (int i = 0; i < n; i++) {
