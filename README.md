@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3430-count-days-without-meetings) |
 ## Sorting
 |  |
 | ------- |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
 |  |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [2888-minimum-index-of-a-valid-split](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 <!---LeetCode Topics End-->
