@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0392-is-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0014-longest-common-prefix) |
+| [0392-is-subsequence](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
