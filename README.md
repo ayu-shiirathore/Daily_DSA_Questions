@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Tree
@@ -42,4 +43,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Math
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
