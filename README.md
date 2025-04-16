@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Tree
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
