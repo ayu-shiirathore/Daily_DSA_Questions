@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Tree
 |  |
 | ------- |
