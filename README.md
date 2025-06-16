@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
