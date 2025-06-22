@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Greedy
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
