@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Array
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
