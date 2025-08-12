@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
