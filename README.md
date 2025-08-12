@@ -219,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
