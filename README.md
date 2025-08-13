@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
