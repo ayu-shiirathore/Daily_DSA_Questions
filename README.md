@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
