@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
@@ -213,10 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
