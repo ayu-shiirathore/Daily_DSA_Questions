@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
