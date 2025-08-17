@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0966-binary-subarrays-with-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -247,10 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
