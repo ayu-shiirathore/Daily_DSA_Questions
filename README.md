@@ -252,12 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
@@ -277,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/3790-fruits-into-baskets-ii) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
