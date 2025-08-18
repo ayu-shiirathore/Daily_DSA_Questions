@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
