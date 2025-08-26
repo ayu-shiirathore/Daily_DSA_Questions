@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0031-next-permutation) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
