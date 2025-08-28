@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0768-partition-labels) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0242-valid-anagram) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
