@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
