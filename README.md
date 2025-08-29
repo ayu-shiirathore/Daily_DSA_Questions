@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0547-number-of-provinces](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Math
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
