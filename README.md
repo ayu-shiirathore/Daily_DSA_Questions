@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0733-flood-fill) |
 | [0940-fruit-into-baskets](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0943-sum-of-subarray-minimums) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0733-flood-fill) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Search Tree
