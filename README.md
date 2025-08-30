@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1036-rotting-oranges) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
