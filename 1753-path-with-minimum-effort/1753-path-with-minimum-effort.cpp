@@ -3,9 +3,9 @@ public:
     int minimumEffortPath(vector<vector<int>>& heights) {
         // Define a priority queue of type {diff, {row, col}}
         priority_queue<
-            pair<int, std::pair<int, int>>,  // Type of the elements in the queue
-            vector<std::pair<int, std::pair<int, int>>>,  // Underlying container (vector)
-            greater<std::pair<int, std::pair<int, int>>>  // Comparator (min-heap)
+            pair<int, pair<int, int>>,  // Type of the elements in the queue
+            vector<pair<int, std::pair<int, int>>>,  // Underlying container (vector)
+            greater<pair<int, std::pair<int, int>>>  // Comparator (min-heap)
         > pq;
 
         int n = heights.size();
