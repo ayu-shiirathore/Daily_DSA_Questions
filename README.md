@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
