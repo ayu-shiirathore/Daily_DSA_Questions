@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0287-find-the-duplicate-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0242-valid-anagram) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 ## Simulation
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1753-path-with-minimum-effort) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
