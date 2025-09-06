@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0242-valid-anagram) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0733-flood-fill) |
