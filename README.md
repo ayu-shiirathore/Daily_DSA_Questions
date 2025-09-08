@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0234-palindrome-linked-list) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
