@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1448-maximum-69-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0131-palindrome-partitioning) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0070-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Linked List
 |  |
