@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2887-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0242-valid-anagram) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
