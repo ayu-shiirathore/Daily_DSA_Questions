@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0733-flood-fill) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1250-longest-common-subsequence](https://github.com/ayu-shiirathore/Daily_DSA_Questions/tree/master/1250-longest-common-subsequence) |
